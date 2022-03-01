@@ -1,0 +1,464 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most humble supplication of many the Kings Maiesties loyall subiects, ready to testifie all civill obedience, by the oath, as the law of this realme requireth, and that of conscience; who are persecuted, onely for differing in religion, contrary to divine and humane testimonies as followeth..</title>
+            <author>Murton, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1621</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 71 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07159</idno>
+            <idno type="OCLC"> 166384173</idno>
+            <idno type="STC">STC 563.7</idno>
+            <idno type="STC">ESTC S95969</idno>
+            <idno type="EEBO-CITATION">166384173</idno>
+            <idno type="OCLC">ocn 166384173</idno>
+            <idno type="VID">191460</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07159)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191460)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2259:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most humble supplication of many the Kings Maiesties loyall subiects, ready to testifie all civill obedience, by the oath, as the law of this realme requireth, and that of conscience; who are persecuted, onely for differing in religion, contrary to divine and humane testimonies as followeth..</title>
+                  <author>Murton, John.</author>
+               </titleStmt>
+               <extent>[2], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>G. Thorp?],</publisher>
+                  <pubPlace>[Amsterdam? :</pubPlace>
+                  <date>Printed 1621..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Murton.  Cf. STC (2nd ed.).</note>
+                  <note>Signed at colophon: "The Kings Majestie loyall subjects in all lawfull obedience, unjustly called Anabaptists."</note>
+                  <note>Place and printer of publication suggested by STC (2nd ed.).</note>
+                  <note>Printer's ornament on t.p., initials throughout.</note>
+                  <note>Signatures: A-B⁸ C⁴.</note>
+                  <note>Imperfect: pages have faded print and are tightly bound, with slight loss of print.</note>
+                  <note>While this seems to be basically the same text as 563.5, in some portions checked it differs considerably.  Cf. STC (2nd ed.).</note>
+                  <note>Reproduction of original in: Boston Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anabaptists --  Early works to 1800.</term>
+               <term>Religious tolerance --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191460:1" rendition="simple:additions"/>
+            <p>
+               <hi>A MOST HVMBLE</hi> SVPPLICATION OF MANY THE KINGS MAIESTIES <hi>LOYALL SVBIECTS, READY TO</hi> TES<g ref="char:EOLhyphen"/>tifie all civill obedience, by the oath, as the Law of this Realme requireth, and that of conſcience; Who are <hi>Perſecuted,</hi> onely for differing in Religion, contrary to divine and humane teſtimonies as followeth.</p>
+            <q>
+               <bibl>
+                  <hi>Prov. 21.13.</hi>
+               </bibl>
+               <p>He that ſtoppeth his eare at the crying of the poore, he ſhall alſo crie, and not be heard.</p>
+            </q>
+            <p>Printed 1621.</p>
+         </div>
+         <div type="modern_accession_note">
+            <pb facs="tcp:191460:2" rendition="simple:additions"/>
+            <p>This <hi>Book</hi> belongs to <hi>The</hi> New-England-<hi>Library,</hi> Begun to be collected by <hi>Thomas Prince,</hi> upon his entring <hi>Harvard-College,</hi> July 6. 1703; and was given by ſaid <hi>Prince,</hi> to remain therein for ever.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:191460:2"/>
+            <head>
+               <hi>TO THE HIGH AND MIGHTY Prince</hi> Iames <hi>by the grace of God King of Great Brittaine, France and Ireland, our Soveraigne Lord on earth.</hi> TO THE EXCELLENT AND NOBLE Prince <hi>Charles,</hi> Prince of Wales, &amp;c. To all the Right Honourable Nobilitie, Grave and Honourable Iudges: <hi>and,</hi> To all other the Right worſhipfull Gentrie of all estates and degrees, aſſem<g ref="char:EOLhyphen"/>bled in this preſent Parliament.</head>
+            <opener>
+               <salute>Right High and Mighty.</salute>
+               <salute>Right Excellent and Noble.</salute>
+               <salute>Right Honourable.</salute>
+               <salute>and Right Worſhipfull.</salute>
+            </opener>
+            <p>AS the conſideration of that divine comman<g ref="char:EOLhyphen"/>dement of the King of Kings given to eve<g ref="char:EOLhyphen"/>ry poore Saint, 1. <hi>Tim.</hi> 2. <hi>(Let ſupplications, prayers, interceſſions, and giving of thankes bee made for Kings, and for all that are in authority, that wee may leade a quiet and peaceable life, in all godlineſs and ho<g ref="char:EOLhyphen"/>neſtie)</hi> doth cauſe in us a daily practiſe therof in our ſecret chambers (as of duetie we are bound) of which the ſearcher of all hearts beareth us witneſſe; ſo let it be pleaſing to your Majeſtie, and the reſt in authority, that we make humble ſupplications and prayers to
+<pb n="2" facs="tcp:191460:3"/>
+you, for ſuch our bodily miſeries, and wants, as are upon us, in that it is in your power to redreſſe them; and eſpecially at this preſent, in this Honourable Mee<g ref="char:EOLhyphen"/>ting, aſſembled for the publique weale of all your loyall ſubjects.</p>
+            <p>Our miſeries are: long and lingring impriſonments for many yeres, in divers countries of England, in which many have dyed, and left behind them, wi<g ref="char:EOLhyphen"/>dowes, and many ſmall fatherleſſe children; taking a<g ref="char:EOLhyphen"/>way our goods, and other the like, of which we can make good probation: not for any diſloyaltie to your Majeſtie, or hurt to any mortall man: (our adverſa<g ref="char:EOLhyphen"/>ries themſelves being judges) but onely becauſe wee cannot aſſent unto, and practiſe, in the worſhip of God, ſuch things as we have not faith in; which if wee ſhould doe, we ſhould greatly ſinne againſt the moſt High, <hi>Heb.</hi> 11.6. <hi>Rom.</hi> 14.23. as your Majeſtie well obſerveth in theſe words. <hi>It is a good ſure rule in Theo<g ref="char:EOLhyphen"/>logie, that in the matters of the worſhip of God, Quod du<g ref="char:EOLhyphen"/>bitas, ne feceris:</hi> according to <hi>Pauls</hi> rule, <hi>Rom.</hi> 14. <hi>Let every man be fully perſwaded in his minde.</hi>
+            </p>
+            <p>If we were in errour in theſe things, courſes of af<g ref="char:EOLhyphen"/>flicting our bodies for conſcience cauſe, are not of <hi>Chriſt,</hi> but of <hi>Anti-chriſt,</hi> as hereafter is moſt plaine<g ref="char:EOLhyphen"/>ly ſhewed. And if no Church be the rule of faith, but onely the holy Scriptures, as the learned <hi>Proteſtants</hi> doe truely confeſſe; and that therefore the doctrine of the Church of <hi>Rome,</hi> (that <hi>All muſt beleeve as the Church beleeves,</hi> and ſo practiſe, or elſe be cruelly per<g ref="char:EOLhyphen"/>ſecuted) be moſt ungodly; then how can they avoide the like cenſure that practiſe the ſame things, contrary to their own judgement? For the learned Proteſtants doe ſay, it is high crueltie, for the Papiſts to conſtraine them to practiſe thoſe things in Gods worſhip, which they have not faith in; nay which they know to bee
+<pb n="3" facs="tcp:191460:3"/>
+evill, with impriſonment, fire, and fagot &amp;c. and therefore, why may not we ſaie, it is as great crueltie, for the learned Proteſtants to conſtraine us to practiſe thoſe things in Gods worſhip, which we have not faithin? nay, which we certainely know to be evill; with lingring impriſonment, loſſe of goods, and what other cruelties, they can procure againſt us of your Majeſtie, and the civill State.</p>
+            <p>If the learned ſay, they have the truth, and we are in errour, that reſteth to be tryed, by the true touchſtone of the holy Scriptures: If the learned be our Iudges, the verdit muſt needs goe againſt us: If their ſayings be a ſafe rule for us to be ſaved by, wee will reſt upon them; and then why may not the ſayings of the Pa<g ref="char:EOLhyphen"/>piſts be as ſure alſo? and they be the Proteſtants Iud<g ref="char:EOLhyphen"/>ges, and ſo bring us all to beleeve, as the Church be<g ref="char:EOLhyphen"/>leeves? The iniquitie of which we have diſcovered, as brieflie as wee can, beſeeching your majeſtie, and all that are in Authoritie to heare us. It concerneth our eternall ſalvation, or condemnation, and is therefore of great importance: <hi>For what can a man give for the ranſome of his ſoule?</hi>
+            </p>
+            <p>Oh, be pleaſed to remember the ſaying of that Great and good man <hi>Iob: ch.</hi> 29. <hi>I delivered the poore that cryed, and the fatherleſſe, and him that had none to help him: the bleſſing of him that was readie to periſh came upon me, and I cauſed the widowes heart to rejoyce. I was a father to the poore; and, When I knew not the cauſe, I ſought it out diligently, I brake alſo the jawes of the unrighteous man, and pluckt the prey out of his teeth.</hi>
+            </p>
+            <p>Our prayers are, and ſhall be, for you day and night, to that God of glorie, by whom you Raigne, and are Advanced, that hee will put into your hearts, to let theſe things enter into your thoughts, and then wee doubt not (the evidence of them being ſuch) that you
+<pb n="4" facs="tcp:191460:4"/>
+will be moved to repeale, and make voide, all thoſe cruell Lawes, that perſecute poore men, onely for mat<g ref="char:EOLhyphen"/>ters of conſcience. Not that we any way deſire for our ſelves, Papiſts, or others, any the leaſt libertie from the ſtrict obſervation of any civil, temporall, or hu<g ref="char:EOLhyphen"/>mane law, made, or to be made, for the preſervation of your Majeſties Perſon, Crowne, State, or Dignitie: For all that give not unto Caeſar, that which is his, let them beare their burden: But we onely deſire that God might have that which is his, which is the heart and ſoule, in that worſhip which hee requireth, over which there is but one Lord, and one Lawgiver, <hi>Iam.</hi> 4.12. who is able to ſave it, or to deſtroy it, which no mortall man can doe. It is not in your power to com<g ref="char:EOLhyphen"/>pell the heart; you may compell men to be hypocrites, as a great many are, who are falſe hearted both to<g ref="char:EOLhyphen"/>wards God and the State, which is ſinne both in you and them.</p>
+            <p>The vileneſs of perſecuting the bodie of any man, onely for cauſe of conſcience, is againſt the word of God, and law of Chriſt; it is againſt your Majeſties profeſſion; againſt the profeſſion and practiſe of other Princes. The ancient, and latter approved Writers witneſs againſt it: ſo doe the Puritanes, or Calviniſts: yea the eſtabliſhers of it, The Papiſts themſelves, in<g ref="char:EOLhyphen"/>veigh againſt it. So that God, and all men doe deteſt it, as is herein declared: And therefore in moſt hum<g ref="char:EOLhyphen"/>ble manner, wee doe beſeech your Majeſtie, your Highneſs, your Honours, your Worſhips, to conſider of it, and doe as God directeth you in his Word, that cannot lie: <hi>Let the wheat and tares grow together in the world, untill the Harveſt: Mat.</hi> 13.</p>
+            <p>And ſo in humble manner we proceed.</p>
+         </div>
+         <div n="1" type="chapter">
+            <pb n="5" facs="tcp:191460:4"/>
+            <head>
+               <hi>CHAP. I.</hi> The doctrine of the Holy Ghoſt contained in the ſacred Scriptures, is the rule of faith; and not any Church, Counſell, Prince, or Potentate; nor any mortall man whatſoever. <hi>Proved.</hi>
+            </head>
+            <p>BY the Scriptures themſelves, which are the wri<g ref="char:EOLhyphen"/>tings of Moſes and the Prophets, The Evangeliſts and Apoſtles. Theſe are a ſufficient Rule to trie all faith and religion by.</p>
+            <p>Our reaſons are. 1. They are <hi>inſpired of God, and are able to make us wiſe unto ſalvation, and perfect to every good worke,</hi> 2. <hi>Tim.</hi> 3.15. Secondly, becauſe theſe wri<g ref="char:EOLhyphen"/>tings were written that <hi>we might have certainety of the things whereof we are inſtructed, Luke</hi> 1.4. <hi>That our joy might be full,</hi> 1. <hi>Ioh.</hi> 1.4. <hi>and that we might beleeve, and in beleeving might have life, Ioh.</hi> 20.31. Thirdly, we are co<g ref="char:cmbAbbrStroke">̄</g>manded, <hi>Not to preſume</hi> (or be wiſe) <hi>above that which is written,</hi> 1. <hi>Cor.</hi> 4.6. For with this weapon Chriſt put to flight the devill, <hi>Mat.</hi> 4. and taught his Diſciples, <hi>Luk.</hi> 24.27. &amp; 46. and Paul taught Chriſt Ieſus, <hi>Act.</hi> 17.2. The godly are commended for <hi>ſearching the Scriptures, Act.</hi> 17.11. and commanded to <hi>ſearch them, Ioh.</hi> 5.39. and they that vvill not beleeve theſe Writings, will not beleeve Chriſts vvords, nor one that ſhould come from the dead, <hi>Ioh.</hi> 5.47. <hi>Luke</hi> 16.31.</p>
+            <p>If any Papiſt, or Atheiſt aske, how vvee know all, or any of theſe Scriptures to be inſpired of God? Wee anſwer, <hi>The eare,</hi> ſaith <hi>Iob</hi> (12.11.) <hi>diſcerneth words, and the mouth taſteth meate for it ſelfe:</hi> And as the eie diſcerneth the light of the Sun, ſo doth our ſpirit di<g ref="char:EOLhyphen"/>ſcerne theſe Scriptures to be of God, and that for theſe reaſons: Firſt, in regard of the majeſtie, wiſedome, and Grace of them, from all other writings. For
+<pb n="6" facs="tcp:191460:5"/>
+there is as great glorie in theſe Scriptures, as in the making of this vvonderfull vvorld, which may evidently be ſeene: Secondly, by their teachings, which excelleth all humane teachings, leading us from Satan, from this world, and our ſelves; to God, in ho<g ref="char:EOLhyphen"/>lineſſe, faith, love, feare, humilitie: Thirdly, the true events of them, or fulfilling of the Propheſies contei<g ref="char:EOLhyphen"/>ned in them: Fourthly, the conſent and agreement of all the parts of them; the like wherof cannot be ſhew<g ref="char:EOLhyphen"/>ed of ſo many ſeverall Writers ſince the vvorld began: Fiftly, the admirable preſervation therof againſt time, and tyrants, all which could not extinguiſh them: Sixt<g ref="char:EOLhyphen"/>ly, the devill and his inſtruments rage, againſt thoſe that practiſe the doctrines conteined in them: Seventh<g ref="char:EOLhyphen"/>ly, the converſion of thouſands to God, by the power of the doctrine of them: Eightly, the vengeance of God upon ſuch as have not obeyed them: Ninthly, the acknowledgement of them by the verie profeſſed ad<g ref="char:EOLhyphen"/>verſaries thereof: Tenthly, the miracles from heaven confirming them: Eleventhly, the ſight of a Saviour to man is onely from them: And laſtly, the ſimplicity of the Writers, and plainenes of the writings. For God hath choſen the meane, contemptible and deſpiſed to publiſh the myſteries of his will.</p>
+            <p>Theſe are ſufficient to perſwade, that theſe holy Wri<g ref="char:EOLhyphen"/>tings are <hi>inſpired of God,</hi> and ſo <hi>able to make us wiſe to ſalvation, and perfect to every good worke.</hi> Theſe Scriptures conteine the <hi>Law and Teſtimonie,</hi> and if any Councell, Church, Prince, or Potentate, <hi>ſpeake not according to this word, it is becauſe there is no light in them, Eſa.</hi> 8.20. but we are commanded <hi>to hold them accurſed, Gal.</hi> 1.8.9. For <hi>whoſoever ſhall adde unto theſe things, God ſhall adde the plagues written herein: and who ſo ſhall take away from thoſe things, God ſhall take his name out of the booke of Life, and out of the holy Citie, and from thoſe things that are written, Revel.</hi> 22.18.19.</p>
+            <pb n="7" facs="tcp:191460:5"/>
+            <p>Much by us ſhall not need to be vvritten in this thing, it is ſo evident, and ſo generally acknowledged; except the Papiſts: onely, we will bring ſome humane Teſtimonies. The Proteſtants affirme (<hi>Whites Way to the Church,</hi> Dedicated to the Biſhops, pag. 12.) <hi>That it is the doctrine of the Church of England</hi> (Article ſix) <hi>that the Scriptures, comprehended in the old and new Teſtament, is the Rule of Faith, ſo far, that whatſoever is not read there<g ref="char:EOLhyphen"/>in, nor cannot be proved thereby, is not to be accepted as any point of faith, or needfull to be followed: but by it all do<g ref="char:EOLhyphen"/>ctrines taught, and the Churches practice, muſt be examined, and that rejected, which is contrary to it, under what title, or pretence ſoever, it come unto us.</hi> And further they ſay, (<hi>pag.</hi> 1.) <hi>That the Pope, or any mortall man, ſhould be the rule, that muſt reſolve in queſtions and controverſies of faith, is an unreaſonable Poſition, voide of all indifferency: when common ſence teacheth, that he that is a Party, cannot be a Iudge.</hi> And againe, (<hi>p</hi> 17.) <hi>Which is the Church is con<g ref="char:EOLhyphen"/>troverſall, which is the Scriptures, is not; therefore let that be the Rule which is out of doubt.</hi> Againe (<hi>pag.</hi> 44.) <hi>The Scriptures containeth the Principles of our faith, and ſhall we not beleeve them? Or cannot we know them of themſelves in<g ref="char:EOLhyphen"/>fallibly, without we let in the authority of the Church?</hi>
+            </p>
+            <p>This, and much more the Proteſtants have written, &amp; ſufficiently confirmeth: <hi>That no Church, nor man what<g ref="char:EOLhyphen"/>ſoeuer, may be a Rule, or Iudge, in matters of Faith, but onely the holy Scriptures:</hi> and whoſoever teacheth, or practi<g ref="char:EOLhyphen"/>ſeth otherwiſe, they muſt hold &amp; maintain the Papiſts Creed, or Colliers faith, which the Proteſtants ſo much deteſteth, &amp; mentioneth (p. 6.) out of <hi>Staphilus</hi> his Apo<g ref="char:EOLhyphen"/>logie, Thus: <hi>The Collier being at the point of death, &amp; temp<g ref="char:EOLhyphen"/>ted of the devill what his faith was? anſwered: J beleeve, and die in the faith of Chriſts Church: being againe demanded, what the faith of Chriſts Church was? that faith, ſaith he, that J beleeve in; Thus the devill getting no other anſwer, was
+<pb n="8" facs="tcp:191460:6"/>
+overcome, and put to flight: by this faith of the Collier, every unlearned man, may trie the ſpirits of men whether they be of God or no: by this faith he may reſiſt the de<g ref="char:EOLhyphen"/>vill, and judge the true interpretation from the falſe; and diſ erne the Catholique from the Hereticall Miniſter, the true doctrine from the forged.</hi> For if this anſwer of the Collier, and the Papiſts concluſion upon it, be not ſound, but deteſtable, as the Proteſtants confeſſe, and cry woe unto the Papiſts for the ſame, and that juſtly: Then is it no leſſe deteſtable in the Proteſtants, or any other, to require, or force any to yeeld ſo in Religion and Faith, that upon ſuch a temptation, he hath no better anſwer to make, then as the Collier, to ſay, <hi>I beleeve and die in the faith of the Church, or of the Prince, or of the learned:</hi> For being demanded what that faith is, if he be not able to prove it by Gods word, contey<g ref="char:EOLhyphen"/>ned in the Scriptures, it is no better then the anſwer of the Collier, <hi>The faith that I beleeve in, &amp;c.</hi> Oh how manie millions of ſoules in this Nation (not Papiſts, but Proteſtants) live and die, and have no other faith then this!</p>
+         </div>
+         <div n="2" type="chapter">
+            <head>
+               <hi>CHAP. II.</hi> The interpreter of this Rule, is the Scriptures themſelves, and the Holy Ghoſt, in whomſoever.</head>
+            <p>THe next in order, as the immediate queſtion from this former, is: who muſt interpret this Rule, be<g ref="char:EOLhyphen"/>cauſe (as is objected) there are many darke pla<g ref="char:EOLhyphen"/>ces in it, hard to be underſtood: Vnto vvhich we an<g ref="char:EOLhyphen"/>ſwer, The two Witneſſes ſhall be the onely interpreter thereof, which are, the vvord of God, contained in the ſame Scriptures, and the Spirit of God, ſo are they called, <hi>Ioh.</hi> 15.26.27. &amp; <hi>Act.</hi> 5.32. Firſt, for the Scrip<g ref="char:EOLhyphen"/>tures themſelves, although ſome doctrine in ſome pla<g ref="char:EOLhyphen"/>ces, be <hi>darke and obſcure,</hi> as <hi>Peter</hi> ſpeaketh, 2. <hi>Pet.</hi> 3.16.
+<pb n="9" facs="tcp:191460:6"/>
+yet the ſelfe ſame doctrines in other places, are plaine and manifeſt: <hi>For all the words of the Lord are plaine, to them that will underſtand, and ſtraight to them that would finde knowledge, Prov.</hi> 8.9. And <hi>knowledge is eaſie to him that will underſtand, Prov.</hi> 14.6 Secondly, the Spirit of God, ſo ſaith the Apoſtle, 1. <hi>Ioh.</hi> 5.6. <hi>It is the Spirit that beareth witneſſe, for the Spirit is truth,</hi> and <hi>Ioh.</hi> 14.26. <hi>But the Comforter, which is the Holy Ghoſt, whom the Father will ſend in my Name, hee ſhall teach you all things, and bring all things to your remembrance which I have told you:</hi> And <hi>Ioh.</hi> 16.13. <hi>Howbeit when hee is come, which is the Spirit of Truth, hee will leade you into all truth, for hee ſhall not ſpeake of himſelfe, but whatſoever hee ſhall heare, hee ſhall ſpeake, and he will teach you of the things to come.</hi> And 1. <hi>Cor.</hi> 2.10. <hi>For the Spirit ſearcheth all things, even the deepe things of God:</hi> and <hi>verſ.</hi> 11. <hi>For the things of God knoweth no man, but the Spirit of God.</hi> And 1 <hi>Ioh.</hi> 2.27. <hi>But the annointing that ye have received of him, dwelleth in you, and yee need not that any man teach you, but as the ſame annointing teacheth you of all things, and it is true, and is not lying, and as it taught you, you ſhall abide in him.</hi> And 1 <hi>Ioh.</hi> 3.24. <hi>Hereby we know that hee abideth in us, even by the Spirit that hee hath given us.</hi> And 1. <hi>Cor.</hi> 12.8. <hi>For to one is given by the Spirit, the word of wiſedome; and to another the word of know<g ref="char:EOLhyphen"/>ledge, by the ſame Spirit.</hi>
+            </p>
+            <p>The Scriptures be ſo plaine in this, that the greateſt adverſaries thereof doe acknowledge the truth hereof: Onely in this lyeth the difficultie, who it is that hath the Spirit of God to interprete the Scriptures, which is that ſure Rule: which in the next place is to be handled.</p>
+         </div>
+         <div n="3" type="chapter">
+            <pb n="10" facs="tcp:191460:7"/>
+            <head>
+               <hi>CHAP. III.</hi> That the Spirit of God to underſtand and interpret, is given to all, and every particular perſon, that feare and obey God of what degree ſoever they be, and not to the wicked.</head>
+            <p>DEut. <hi>4.5.6.</hi> Behold J have taught you Ordinances and Lawes, as the Lord my God commanded me, that you doe even ſo, &amp;c. Keep them therefore and doe them, for that is your wiſedome and underſtanding in the ſight of the people, &amp;c. who ſhall ſay, onely this people is wiſe and of underſtanding, &amp;c. Pſal. <hi>25.12.</hi> What man is he that fea<g ref="char:EOLhyphen"/>reth the Lord, him will he teach the way that he ſhall chuſe, <hi>and verſ. 14.</hi> The ſecret of the Lord is revealed to them that feare him, and his covenant to give them underſtanding. <hi>And Pſal. 107.43.</hi> Who is wiſe that he may obſerve theſe things, for they ſhall underſtand the loving kindneſſe of the Lord. <hi>Dan. 12.10.</hi> None of the wicked ſhall have under<g ref="char:EOLhyphen"/>ſtanding, but the wiſe ſhall underſtand; for God will doe no<g ref="char:EOLhyphen"/>thing but he revealed his ſecrets to his ſervants. <hi>Amos 3.7.</hi> And he that keepeth the Law, is a child of underſtanding. <hi>Prov. 28.7. &amp; Luk. 21.15.</hi> For I will give you <hi>(my Diſci<g ref="char:EOLhyphen"/>ples, that obey me and ſuffer for my ſake)</hi> a mouth, and wiſedome. <hi>And Luk. 12.12.</hi> And the Holy Ghoſt ſhall teach you what yee ſhall ſay: For <hi>Mat. 10.20.</hi> it is not you that ſpeake, but the Spirit of my father that ſpeaketh in you. <hi>And Mark. 4.11.</hi> to you <hi>(my followers)</hi> is given to know the myſteries of the Kingdome of God, but to them that are without, all things are in parables. <hi>And Ioh. 14.15.</hi> Jf ye love me keep my commandements, and I will pray the Father, and hee ſhall give you the Spirit of Truth. <hi>And Ioh. 7.17.</hi> Jf any man will doe his will, he ſhall know of the doctrine, whether it be of God or no. <hi>And Act. 5.32.</hi> Yea, and the Holy Ghoſt whom God hath given to all that
+<pb n="11" facs="tcp:191460:7"/>
+obey him. <hi>And Pſal. 119.99. &amp;c. David had more un<g ref="char:EOLhyphen"/>derſtanding then all his Teachers, and then all the An<g ref="char:EOLhyphen"/>cients, becauſe he kept Gods precepts.</hi>
+            </p>
+            <p>
+               <hi>Hence is plaine to whom the Spirit of God is given: Even to everie particular Saint of God, and it is no Private ſpirit, but even the Publique Spirit of God which is in him, which enableth him to underſtan<g ref="char:EOLhyphen"/>ding, and ſo to declare the things given him of God: For that is a private ſpirit, that is not of God, though it be in multitudes: but the Spirit of God, though but in one Saint, is not Private: Gods Spirit is not private, for it is not comprehended onely within one place, perſon, or time, but is univerſall and eternall, ſo is not mans Spirit: Therefore mens is private, though in many perſons: Gods is publique though but in one perſon.</hi>
+            </p>
+         </div>
+         <div n="4" type="chapter">
+            <head>
+               <hi>CHAP. IV.</hi> Thoſe that feare and obey God, and ſo have the Spirit of God to ſearch out the mind of God in the Scriptures, are commonly, and for the moſt part, ſimple ones, poore, de<g ref="char:EOLhyphen"/>ſpiſed, &amp;c.</head>
+            <p>OVr Saviour ſaith, Mat. 11.5. <hi>The poore receive the Goſpell:</hi> and verſ. 25. <hi>J thank thee Father, Lord of heaven &amp; earth, becauſe thou haſt opened theſe things to Babes: It is ſo Father, becauſe thy good pleaſure was ſuch.</hi> And the Apoſtle <hi>James</hi> 2.5. <hi>Hearken my beloved brethren, Hath not God choſen the poore of this world, that they ſhould be rich in faith, and Heyres of the Kingdome, &amp;c.</hi> And the Apoſtle <hi>Paul,</hi> 1. Cor. 1.26. &amp;c. <hi>Bre<g ref="char:EOLhyphen"/>thren, you ſee your Calling, that God hath choſen the fooliſh of this world, the weake of this world, the vile of this world, and deſpiſed, and which are not.</hi>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:191460:8"/>For Gods dealing is, <hi>to give unto the ſimple ſharpneſſe of wit, and to the child knowledge and diſcretion, Prov.</hi> 1.4. <hi>The Spirit bloweth where it liſteth, Ioh.</hi> 3.8. and is not tied either to learning, or multitudes: Poore perſecu<g ref="char:EOLhyphen"/>ted <hi>Michaih</hi> had the truth, againſt 400. of King <hi>Ahabs Prophets,</hi> 1. <hi>King.</hi> 22. ſo had <hi>Ieremy, Ier.</hi> 37. againſt all the <hi>Prieſts</hi> and <hi>Prophets of Iſrael.</hi> The Lord of life himſelfe, in his fleſhly being, what was hee, but a man full of ſorowes? In his birth, laid <hi>in a cratch,</hi> becauſe there was no roome for him in the Inne, <hi>Luke</hi> 2.7. <hi>A Carpenter</hi> by trade, <hi>Mark.</hi> 6. having not a hole to reſt his head in, <hi>Mat.</hi> 8. and in his death contemned, and deſpiſed. His Apoſtles, in like manner, what were they but meane men? Fiſhermen, Tent-makers, and ſuch like, having no certain dwelling place: in ſo much as the worldly wiſe Scribes and Phariſes took notice of it, and reproachfully ſaid, <hi>Ioh.</hi> 7.48. <hi>Doth any of the Rulers, or of the Phariſees beleeve in him? verſ.</hi> 49. <hi>but this people that know not the Law are curſed.</hi>
+            </p>
+            <p>The truth of this is as plaine as may be, that the Scriptures being the rule of Faith, perfect and abſolute, and that the plaineneſſe of them is ſuch, as that by the Spirit of God they may eaſily be underſtood of thoſe that feare, and obey God, but of none elſe: and that ſuch are, moſt commonly, the poore and deſpiſed; For <hi>if any want wiſedome,</hi> be he never ſo ſimple, <hi>let him come unto God, and hee will give him, Iam.</hi> 1.5. which is alſo confirmed by humane teſtimonie.</p>
+            <p>The Proteſtants confeſſe, that in the Primitive Church, the doctrines and ſeverall points of Religion, were known and diſcovered, by the moſt meane of the people, and rhe Biſhops exhorted them therunto &amp;c. <hi>Whits way, pag.</hi> 7. <hi>And that this rule is of that nature, that it is able to direct any man, be he never ſo ſimple, yea the moſt unlearned alive, may conceive, and underſtand it ſuf<g ref="char:EOLhyphen"/>ficiently
+<pb n="13" facs="tcp:191460:8"/>
+for his ſalvation, pag.</hi> 9. And they relate the ſayings of the Ancients in this time: Firſt, <hi>Clemence Alexandrinus: The word is not hid from any; it is a com<g ref="char:EOLhyphen"/>mon light which ſhineth to all men, and there is no obſcu<g ref="char:EOLhyphen"/>ritie in it,</hi> &amp;c. <hi>pag.</hi> 32. Next <hi>Auguſtine: God hath bowed down the Scriptures to the capacitie of babes and ſucklings, that when proud men will not ſpeak to their capacitie, yet himſelfe might.</hi> After him, <hi>Chriſoſtome: The Scriptures are eaſie to underſtand, and expoſed to the capacitie of every ſervant, and Plowman, and widow, and boy, and him that is moſt unwiſe; therefore God penned the Scriptures by the hands of Publicanes, Fiſhermen, Tent-makers, Shepherds, Neatherds, and unlearned men, that none of the ſimple people might have any excuſe to keep them from reading: and that ſo they might be eaſie to be underſtood of all men, the Artificer, the Houſholder, and Widow woman, and him that is moſt unlearned: Yea, the Apoſtles and Prophets, as Schoole-maſters to all the world, made their writings plaine and evident to all men, ſo that every man of himſelfe, one<g ref="char:EOLhyphen"/>ly by reading them, might learne the things ſpoken therein.</hi> Next <hi>Iuſtine Martyr,</hi> ſaith, <hi>Heare the words of the Scripture, which be ſo eaſie that it needs no expoſition, but onely to be rehearſed.</hi> And this, the Proteſtants ſay, was the perpetuall and conſtant judgement of the anci<g ref="char:EOLhyphen"/>ent Church &amp;c. And further he alledgeth, (<hi>pag.</hi> 21.) <hi>Theodoret,</hi> who writ of his times: <hi>You ſhall every where ſee theſe points of our faith to be knowne and underſtood, not onely by ſuch as are Teachers in the Church, but even of Coblers and Smiths, and Webſters, and all kinde of Artifi<g ref="char:EOLhyphen"/>cers: yea, all our women; not they onely which are booke-learned, but they alſo that get their living with their needle: yea, mayd-ſervants and wayting-women: and not Citizens onely, but Huſbandmen of the Country, are very skilfull in theſe things; yea, you may heare among us, Ditchers, and Neatherds, and Wood-ſetters, diſcourſing of the Trinitie, and
+<pb n="14" facs="tcp:191460:9"/>
+the creation, &amp;c.</hi> The like is repeated by others. And, ſay the Proteſtants, <hi>His doctrine that was Preſident in the Trent Councell, That a Diſtaffe was fitter for a woman then a Bible, was not yet hatched &amp;c.</hi>
+            </p>
+            <p>Oh! it were well, if the contempt of theſe pious practiſes, were paled onely within the Romiſh profeſ<g ref="char:EOLhyphen"/>ſion, and were not practiſed in, and among thoſe that profeſſe themſelves to be ſeparated therefrom: As what is more frequent in the mouthes of many learn<g ref="char:EOLhyphen"/>ed Proteſtants, then theſe, and ſuch like words: <hi>Muſt every baſe fellow, Cobler, Taylor, Weaver, &amp;c. meddle with the expoſition or diſcourſing of the Scriptures, which apper<g ref="char:EOLhyphen"/>teyneth to none but to the learned?</hi> Yea, doe they not forbid their owne Miniſters, to expound, or diſcourſe of the Scriptures, Read the 49. Canon, which is: <hi>No, perſon whatſoever, not examined and approved by the Biſhop of the Dioces, or not licenced, as is aforeſayd, for a ſufficient and convenient Preacher, ſhall take upon him to expound in his owne Cure, or elſewhere, any Scripture, or matter, or do<g ref="char:EOLhyphen"/>ctrine: but ſhall onely ſtudie to read plainly, and aptly (without gloſing or adding) the Homilies alreadie ſet forth, or hereafter to be publiſhed by lawfull Authoritie &amp;c.</hi> So that not onely Ieſus Chriſt, and his Apoſtles (who are alive in their doctrine, though not in their perſons) are forbidden all expoſition of holy Scriptures, or matter, or doctrine, not being licenſed by the Biſhops: but alſo their owne Miniſters, who have ſworne Ca<g ref="char:EOLhyphen"/>nonicall obedience to them. Yet when they are put to anſwer the Papiſt, who practiſe the ſame thing, they take up both Scriptures, and ancient Writers to con<g ref="char:EOLhyphen"/>fute it.</p>
+         </div>
+         <div n="5" type="chapter">
+            <pb n="15" facs="tcp:191460:9"/>
+            <head>
+               <hi>CHAP. V.</hi> The learned in humane learning, doe commonly, and for the moſt part, erre, and know not the Truth, but perſecute it, and the profeſſors of it, and therefore to be no further followed, then we ſee them agree with the Truth.</head>
+            <p>THe next in order is, <hi>That ſeeing the Lord reveileth his ſecrets to the humble, though wanting humane learning;</hi> That we now prove, that on the con<g ref="char:EOLhyphen"/>trarie, God uſually, and for the moſt part, <hi>Hideth his ſecrets from the learned, and ſuffreth them to erre, and reſiſt the Truth;</hi> yea, ſo far as to perſecute it, and the pro<g ref="char:EOLhyphen"/>feſſors of it.</p>
+            <p>And firſt, let us beginne with the learned Heathen, who were behind none in humane learning: The wiſe men of Egypt, how did they reſiſt the powerfull truth of God, delivered by Moſes: yea, they reſiſted it, with ſuch ſignes and lying wonders, as the heart of <hi>Pha<g ref="char:EOLhyphen"/>raoh,</hi> and all his people was hardened againſt it, <hi>Exod.</hi> 7.11.12.18. &amp; 8.7. And what was the cauſe of the de<g ref="char:EOLhyphen"/>ſtruction of Babel, but the truſting in the learned, <hi>Eſa.</hi> 47.13. <hi>Thou art wearied in the multitude of thy Counſels, &amp;c.</hi> And <hi>Eſa.</hi> 44.25. <hi>I deſtroy the tokens of the South<g ref="char:EOLhyphen"/>ſayers, and make them that conjecture fooles, and turne the wiſe men backward, and make their knowledge fooliſhneſſe.</hi> The things of Gods dealing none of the learned of E<g ref="char:EOLhyphen"/>gypt or Babel, could interpret, but <hi>Ioſeph</hi> and <hi>Daniel.</hi>
+            </p>
+            <p>Next come to the learned Prieſts and Prophets of the Iewes, whoſe lips ſhould have preſerved <hi>know<g ref="char:EOLhyphen"/>ledge,</hi> and at whoſe mouth, the people ſhould have ſought the <hi>Law;</hi> But <hi>ſaith the Lord, Mal.</hi> 2.7.8. <hi>They are gone out of the way, they have cauſed many to fall by the Law,</hi> &amp;c. Alſo <hi>Eſay</hi> 29. <hi>Stay your ſelves, and wonder; they are blind, and make you blind: they are drunken, but
+<pb n="16" facs="tcp:191460:10"/>
+not with wine, they ſtagger, but not by ſtrong drinke, for the Lord hath covered you with a ſpirit of ſlumber, and hath ſhut up your eyes, the Prophets, and your chiefe Seers, &amp;c.</hi> Therefore the Lord ſaid, <hi>Becauſe this people come neere unto me with their mouth, and honour me with their lips, but have removed their hearts far from me, &amp; their feare towards me, was taught by the precepts of men: Therfore behold I will againe, doe a marveilous worke in this people, even a mar<g ref="char:EOLhyphen"/>vellous worke, and a wonder; for the wiſedome of their wiſe men ſhall periſh, and the underſtanding of the prudent ſhall be hid</hi> &amp;c. And <hi>Eſa.</hi> 56.10. &amp;c. <hi>Their watchmen are all blind, they have no knowledge</hi> &amp;c. <hi>and theſe ſhepheards can<g ref="char:EOLhyphen"/>not underſtand, for they all looke to their owne way, every one for his owne advantage, and for his owne purpoſe.</hi> Al<g ref="char:EOLhyphen"/>ſo <hi>Ier.</hi> 8.9. <hi>The wiſemen are aſhamed, they are afraid and taken, for loe they have rejected the word of the Lord, and what wiſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dome is in them,</hi> &amp;c. Reade <hi>Ier.</hi> 14.14. &amp;c. and 50.6. <hi>My people have beene as loſt ſheep, their ſheepherds have cauſed them to goe aſtray, and have turned them away to the Mountaines</hi> &amp;c. And <hi>Micha</hi> 3. ch. <hi>Night ſhall be un<g ref="char:EOLhyphen"/>to them for a viſion, and darkeneſſe for a divination, and he Sunne ſhall goe down over the Prophets, and the day ſhall be darke over them</hi> &amp;c. <hi>For they have no anſwer of God. They build up Sion with bloud, and Ieruſalem with iniquitie</hi> &amp;c. And <hi>Zeph.</hi> 3.4. <hi>Her Prophets are light and wicked perſons, her Prieſts have polluted the Sanctuarie, they have <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>reſted the Law.</hi>
+            </p>
+            <p>And in the time of our Saviour, how had they made the commandements of God of no authori<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, by their Traditions? <hi>Mat.</hi> 15. And <hi>Act.</hi> 13.27. For the Rulers of Ieruſalem (the high Prieſts, Scribes <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Phariſees) knew not Chriſt, nor yet <hi>the words of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Prophets which they heard read every Sabbath day, but fulfilled them in condemning him.</hi> And our Saviour ſaith, <hi>thanke thee O Father, becauſe thou haſt hid theſe things
+<pb n="17" facs="tcp:191460:10"/>
+from the wiſe, and men of underſtanding, Mat.</hi> 11. And none <hi>of the Phariſees or Rulers beleeved on him, Ioh.</hi> 7.48. And the Apoſtle, 1 <hi>Cor.</hi> 1.20. <hi>Where is the wiſe? where is the Scribe? where is the diſputer of this world? Hath not God made the wiſedome of this world fooliſhneſſe?</hi> And verſ. 26. <hi>Not many wiſe men after the fleſh, not many migh<g ref="char:EOLhyphen"/>ty, not many noble are called:</hi> and others moe.</p>
+            <p>Next, for the learned ſince the time of our Saviour, The Councell of Epheſus, where were preſent 132. Biſhops; of <hi>Seleucia,</hi> where were preſent 160. Biſhops; related by the Proteſtants: how grievouſly did they erre, in decreeing flat Arianiſme? Who is ignorant (knowing the Hiſtories) that from time to time, both particular Popes, and Generall Councels, have groſſely erred in many things: Onely, one wee will mention, paſſing by <hi>Trent</hi> and others, the Councell <hi>Lateran</hi> we meane, which for Vniverſalitie was behind none; where were preſent two Patriarches, 70. Arch<g ref="char:EOLhyphen"/>biſhop Metropolitanes, 400. Biſhops, 12. Abbats, 800. Coventuall Priors, the Legates of the Greeke, and Romane Empire, beſides the Orators and Embaſ<g ref="char:EOLhyphen"/>ſadours of the Kings of Ieruſalem, France, Spaine, England, and Cyprus, in which Councell it was de<g ref="char:EOLhyphen"/>creed: <hi>That all Heretiques, and ſo many as in any point reſiſt the Catholique Faith, ſhould be condemned</hi> &amp;c. <hi>And that the Secular powers, of what degree ſoever they bee ſhall be compelled openly to ſweare for the defence of the faith, that to the uttermoſt of their power, to roote out and destroy in all their Kingdomes, all ſuch perſons as the Catholique Church had condemned for Heretiques, and if they doe not, they ſhall be excommunicate: and if they doe not re<g ref="char:EOLhyphen"/>forme within one whole yere, then the Pope may denounce all his ſubjects abſolved, and utterly delivered from ſhewing or owing any fidelitie or obedience towards him.</hi> Againe, <hi>That the Pope may give that land to be occupied and enjoyed of
+<pb n="18" facs="tcp:191460:11"/>
+the Catholiques to poſſeſſe it (all Heretiques being rooted out) quietly without contradiction: Tho. Beacon Cum pri<g ref="char:EOLhyphen"/>vil. An.</hi> 1567.</p>
+            <p>And the Proteſtants ſay, that this imperfection hath hung ſo faſt upon all Councels and Churches: that <hi>Nazianzen</hi> ſaith, <hi>He never ſaw any Councell have a good end, White pag.</hi> 83.</p>
+            <p>Are not here ſufficient Teſtimonies, proved from Scriptures and Experience, that the learned have uſu<g ref="char:EOLhyphen"/>ally erred, and that ſo often, the holy Scripture war<g ref="char:EOLhyphen"/>neth us <hi>to beware of falſe Prophets, for many are gone out into the world,</hi> 1. <hi>Ioh.</hi> 4.1. &amp;c. And will not your Maje<g ref="char:EOLhyphen"/>ſtie, your Highneſſe, your Honours, your Worſhips, be pleaſed to conſider of theſe things? but will your ſelves ſubmit the guidance of your ſoules to the lear<g ref="char:EOLhyphen"/>ned Spirituality, as they are called, without due exami<g ref="char:EOLhyphen"/>nation by the Scriptures? which if you doe, we can but bewaile with the ſorowes of our hearts: and are you not herewith ſatiſfied? but will you with your po<g ref="char:EOLhyphen"/>wer (which God hath given you to uſe well) compell and conſtraine, your ſubjects and underlings to beleeve as the learned? binding our conſciences by not ſuffring us to reade and ſearch the Scriptures? which if you ab<g ref="char:EOLhyphen"/>hor, as being the Romiſh practiſe, will you doe that which is worſe letting us reade the Scripture, wherby we may know the will of our heavenly Maſter, and have our conſciences enlightned and convinced; but not ſuffer us to practiſe that we learne and know, and that our conſciences are convinced of by the Scrip<g ref="char:EOLhyphen"/>tures, whereby our ſinne, and condemnation, is made greater againſt God, then the blinde Papiſt, as is pro<g ref="char:EOLhyphen"/>ved, <hi>Luk.</hi> 12.47. but we muſt captivate our conſciences and practiſe, to that which in our ſoules we know to be will, and contrary to the manifeſt law of the Lord, onely becauſe the learned have ſo decreed, whom you
+<pb n="19" facs="tcp:191460:11"/>
+acknowledge are ſubject to erre as well as others; or elſe lie in perpetuall impriſonment, and be otherwiſe grie<g ref="char:EOLhyphen"/>vouſly perſecuted. <hi>May it pleaſe you to obſerve that</hi>
+            </p>
+            <p>The Church of Rome ſeeth, that Ieſus Chriſt is come in the fleſh, &amp; hath aboliſhed the Prieſthood of <hi>Aaron,</hi> and the Legal ſacrifices, but the learned Iewes ſee it not to this day; nay the high Prieſts, Scribes and Phariſees ſaw it not, but for the publiſhing thereof perſecuted Chriſt the Lord, &amp; his holy Apoſtles to the death, cal<g ref="char:EOLhyphen"/>ling their doctrine hereſie, &amp; them ſeditious enemies to <hi>Caeſar,</hi> &amp; what not? for which their cruelty we all juſtly condemne them ſo often as we reade the holy hiſtorie.</p>
+            <p>And the Church of England ſeeth divers damnable doctrines of the Church of Rome, this among many, <hi>That the Scriptures are not the onely rule of faith, but that men ought to be conſtrained to beleev as the Church beleeves:</hi> the Proteſtants ſee the iniquitie of this, becauſe they ſee all Churches are ſubject to erre: But the learned Papiſts ſee it not, but have decreed, <hi>That who ſo reſiſteth any point ſhalbe judged as an Heretique, and ſuffer fire and fagot:</hi> for the which the Proteſtants and we juſtly cry out againſt them for all the innocent bloud that they have ſhed.</p>
+            <p>And we ſee moſt manifeſtly, that whatſoever is not of faith is ſin, <hi>Rom.</hi> 14.23. and that no mortall man may make a law to the conſcience, and force unto it, by per<g ref="char:EOLhyphen"/>ſecutions; and conſequently may not compell to any religion, where faith is wanting. But the learned of this land ſee it not, or rather will not practiſe it: but for our profeſſion &amp; practiſe of this truth, procureth your temporall ſword (for their ſpirituall is without edge) to perſecute us by caſting us into priſons, where ſome of us have remained divers yeres in lingring impriſon<g ref="char:EOLhyphen"/>ment, without hope of releaſe, till our God perſwade the harts of your Majeſtie your Highnes, your Honors your Worſhips, to take pitie on us, our poore wives and
+<pb n="20" facs="tcp:191460:12"/>
+children; or his heavenly Majeſtie releaſe us by death. Will not ſucceeding ages cry out againſt theſe cruell courſes of the Proteſtants, as well as they crie out a<g ref="char:EOLhyphen"/>gainſt the crueltie of the Iewes and Papiſts? Yes, we are aſſured they will: as many millions doe in other Nations at this day.</p>
+            <p>The Scriptures declare the cauſe of the blindneſſe of the learned Iewes, was: Not the obſcurity of the Scriptures; but, that <hi>they winked with their eyes, leſt they ſhould ſee:</hi> and leſt their honour and profite ſhould decay, and come to nothing, <hi>Ioh.</hi> 11.48. and becauſe their feare towards God, vvas taught by mens Pre<g ref="char:EOLhyphen"/>cepts, and becauſe they looked to their own vvay, and to their owne advantage, and had rejected the word of the Lord: and becauſe they builded their <hi>Sion with bloud, and Ieruſalem with iniquitie,</hi> and ſought their own Honour, and not Gods.</p>
+            <p>So the cauſe of the blindneſſe of the learned Pa<g ref="char:EOLhyphen"/>piſts (in denying the Scriptures to be the onely rule of faith) is, not the obſcurity of the Scriptures: but, <hi>they receiving not the love of the Truth, God hath given them up to ſtrange, and ſtrong deluſions:</hi> and the cauſe of their not receiving the love of the truth, being all thoſe afore-named in the Iewes. And the Proteſtant well obſerveth, that the cauſes why the Papiſt deny the Scriptures onely ſufficiencie, and ſtrive ſo much for their Churches Authoritie, are two. Firſt, <hi>That they might make themſelves Iudges in their own cauſe:</hi> For vvho ſeeth not, that if the Church be the rule of faith, and theirs be the Church, which way the verdit will goe? Next, For <hi>that the greateſt points of their Religion have no foundation on the Scriptures:</hi> So that take away the Scriptures, and eſtabliſh their Religion: but eſta<g ref="char:EOLhyphen"/>bliſh the Scriptures, and their Religion vaniſheth, and that Mother of whoredomes that glorified her ſelfe, as
+<pb n="21" facs="tcp:191460:12"/>
+a Queene ſhall be conſumed, for her Merchants that are wexed rich through her pleaſure and profites, ſhall waile and weep: The which, they now ſeeing, ſhut their eyes, leſt they ſhould ſee that, that ſhould bring them from thoſe Honours, Profites and Plea<g ref="char:EOLhyphen"/>ſures.</p>
+            <p>In like manner, it may eaſily be judged by everie in<g ref="char:EOLhyphen"/>different heart, that the cauſe why the learned of this land will be blind, in not ceaſing to conſtraine men to practiſe that in Gods worſhip, in which they have not faith; nay, vvhich is contrarie to the light of their conſciences: is, Not the obſcuritie of the Scriptures. <hi>But their winking with their eyes, lest they ſhould ſee</hi> that, that would take away their honours profits and plea<g ref="char:EOLhyphen"/>ſures; For if <hi>Bribes blinde the eyes of the wiſe, Deut.</hi> 16.19. then honours, profits, and pleaſures, much more: For who ſeeth not, if none ſhould be compelled to practice any thing in Gods worſhip, but what they have faith in; which will make them read willingly, and worſhip holily: then the Honours, Profits, and Pleaſures of the learned men, in reſpect of Spiritualty, would decay, although your Majeſtie might lawfully give them, what temporall Honours, Profits, and Plea<g ref="char:EOLhyphen"/>ſures, your Highneſſe liked of.</p>
+            <p>Theſe are the true cauſes of the blindneſſe of the learned: For ſo Chriſt ſaith, <hi>Ioh.</hi> 5. <hi>How can yee beleeve when yee ſeeke honour one of another, and ſeeketh not the honour that is of God?</hi> And how can men but be blind in Gods myſteries, vvhen they look to their own way, for their own advantage, and for their own purpoſe: For having rejected the word of the Lord, what wiſe<g ref="char:EOLhyphen"/>dome is in them, they have no anſwer of God, that build up their Syon (for ſo they account their Chur<g ref="char:EOLhyphen"/>ches, or profeſſions) vvith bloud, and Ieruſalem with iniquitie.</p>
+            <pb n="22" facs="tcp:191460:13"/>
+            <p>If theſe learned could free us from the Lords wrath, or that they might anſwer for us, and we be free, it were ſafe for us to ſubmit our ſelves, and captivate our judgements and practiſe to them: but ſeeing they can<g ref="char:EOLhyphen"/>not ſo much as deliver their own ſoules, and that if the blind leade the blind, both muſt fall into the ditch, <hi>Mat.</hi> 15. and everie one give account of himſelfe to God, <hi>Rom.</hi> 14. and be judged by his own workes done in the fleſh, 2. <hi>Cor.</hi> 5. and that the ſoule that ſin<g ref="char:EOLhyphen"/>neth ſhall die, <hi>Ezek.</hi> 18. vvee dare not follow any mor<g ref="char:EOLhyphen"/>tall man in matters of ſalvation, further then wee know him to agree vvith Gods meaning in the Scrip<g ref="char:EOLhyphen"/>tures.</p>
+            <p>
+               <hi>Paul,</hi> the holy Apoſtle of Ieſus Chriſt, taught, that we ſhould follow him no otherwiſe then he followed Chriſt, 1. <hi>Cor.</hi> 11.1. yea, Chriſt himſelfe ſent men to the Scripture to try his doctrine, <hi>Ioh.</hi> 5. The Apoſtles ſuffred their doctrine to be tryed, and commended them that tryed it, <hi>Act.</hi> 17.11. And the Proteſtants confeſſe, <hi>White pag.</hi> 127. <hi>This doctrine was never miſli<g ref="char:EOLhyphen"/>ked, till a Church aroſe up, whoſe ſilver being droſſe, and whoſe milke poyſon, could not endure the tryall:</hi> which be<g ref="char:EOLhyphen"/>ing true, that we may trie, why may we not alſo judge and practiſe according as Gods Spirit ſhall direct us in our tryall. If a man ſhould drinke poyſon and know it to be poyſon, were he not in a worſe eſtate then hee that ſhould doe it ignorantly, not knowing thereof? even a murtherer of himſelfe in the higheſt degree: ſo he that drinketh ſpirituall poyſon, knowing it: for ſo it is unto them, they not having faith in it, he is in a worſe eſtate, even a murtherer of his owne ſoule in the like degree. And therefore that Church, or thoſe learned, that vvill ſuffer their doctrine to be tryed, and yet conſtraine men to receive it and practiſe it, when upon tryall, their conſciences are convinced of
+<pb n="23" facs="tcp:191460:13"/>
+the falſhood thereof, are worſe, and doe more high<g ref="char:EOLhyphen"/>ly ſinne, then they that conſtraine a blind conſcience, though both be evill.</p>
+            <p>Wee deſpiſe not learning, nor learned men, but doe reverence both it and them according to their worthi<g ref="char:EOLhyphen"/>neſſe: onely when it is advanced into the ſeat of God, and that given unto it, which apperteineth to the Ho<g ref="char:EOLhyphen"/>ly Ghoſt, which is to leade into all truth; then ought all, as <hi>Hezekiah</hi> did unto the brazen ſerpent, deteſt it and contemne it.</p>
+         </div>
+         <div n="6" type="chapter">
+            <head>
+               <hi>CHAP. VI.</hi> Perſecution for Religion is againſt the Law of Chriſt.</head>
+            <p>FIrſt, himſelfe commanded, <hi>Mat.</hi> 13.30. vvith 38. <hi>Let the Tares and wheate grow together in the world, un<g ref="char:EOLhyphen"/>till the end of this world.</hi>
+            </p>
+            <p>Secondly, the ſame Chriſt our Lord, commandeth, <hi>Mat.</hi> 15.14. that they which are blindly led on in falſe Religion, and are offended at him for teaching true Religion, ſhould be let alone, deferring their puniſh<g ref="char:EOLhyphen"/>ment unto their falling into the ditch.</p>
+            <p>Thirdly, hee reproved his Diſciples vvho would have had fire to come downe from heaven, and devou<g ref="char:EOLhyphen"/>red thoſe Samaritanes that vvould not receive Chriſt: ſaying, <hi>Yee know not of what ſpirit yee are, the Sonne of man is not to deſtroy mens lives, but to ſave them, Luke</hi> 9.54.55. which plainely proveth that Chriſt vvould have no man hurt for Religion, although they be refu<g ref="char:EOLhyphen"/>ſers of him.</p>
+            <p>Fourthly, the Holy Ghoſt teacheth, the ſervants of the Lord muſt not ſtrive, but <hi>be gentle towards all men, ſuffering the evill, inſtructing them with meekneſſe that are
+<pb n="24" facs="tcp:191460:14"/>
+contrary minded, proving if God at any time will give them repentance, that they may acknowledge the truth, and come to amendment out of the ſnare of the devill</hi> &amp;c. 2. <hi>Tim.</hi> 2. vvhich plainely ſheweth, that repentance muſt conti<g ref="char:EOLhyphen"/>nually be waited for, and not conſtreyned by perſecu<g ref="char:EOLhyphen"/>tion; for repentance is the gift of God, and cannot be conſtrained at mans pleaſure.</p>
+            <p>Fiftly, Chriſts <hi>Kingdome is not of this world, Ioh.</hi> 18. neither are the vveapons thereof carnall, but Spirituall. 2. <hi>Cor.</hi> 10.4. And therefore the worldly weapons, of earthly Kingdome cannot accompliſh the things of Chriſts Kingdome.</p>
+            <p>The reaſon of all theſe are: Becauſe they who are now tares, may hereafter become wheate; they that now reſiſt him, may hereafter receive him; they that are now in the devils ſnare, even adverſaries to the truth, may hereafter come to repentance: ſome come not till the eleventh houre: <hi>Mat.</hi> 20.6. If thoſe that come not to the laſt houre, ſhould be deſtroyed, becauſe they come not at the firſt, then ſhould they never come, but be prevented.</p>
+         </div>
+         <div n="7" type="chapter">
+            <head>
+               <hi>CHAP. VII.</hi> The Teſtimonies and practiſes, of famous Princes againſt perſecution.</head>
+            <p>FIrſt, your moſt excellent Majeſtie ſaith, in your expoſition upon <hi>Revel.</hi> 20. <hi>ch.</hi> Firſt Printed in <hi>Eden<g ref="char:EOLhyphen"/>borough,</hi> 1588. after in <hi>London,</hi> 1603. Sixtly, the Compaſſing of the Saints, and beſieging of the be<g ref="char:EOLhyphen"/>loved Citie, declareth unto us <hi>a certaine note of a falſe Church to be perſecution;</hi> For they come to ſeeke the faithfull, the faithfull are thoſe that are ſought: the wicked are the beſiegers, the faithful the beſieged. And
+<pb n="25" facs="tcp:191460:14"/>
+in your Highneſſe ſpeech at the Seſſion of Parliament 1609. you ſay: <hi>It is a ſure rule in Divinity, that God ne<g ref="char:EOLhyphen"/>ver loves to plant his Church by violence and bloudſhed.</hi>
+            </p>
+            <p>And in your Majeſties Apologie for the Oath of Al<g ref="char:EOLhyphen"/>legeance, <hi>pag.</hi> 4. you ſay, <hi>I gave a good proofe, that I intended, no perſecution againſt them, for conſcience cauſe: but onely deſired to be ſecured of them for civill obedience, which for conſcience cauſe they were bound to performe.</hi> And <hi>Pag.</hi> 60. ſpeaking of <hi>Blackwell,</hi> the Arch-prieſt, your Highneſſe ſaith: <hi>It was never my intention to lay any thing to the ſaid Arch-prieſts charge, as I have never done to any for cauſe of conſcience,</hi> &amp;c.</p>
+            <p>And in your Majeſties <hi>Meditation upon the Lords Prayer,</hi> your Highneſſe adviſeth, that <hi>in the matters of Gods worſhip, we ſhould not doe that we doubt.</hi>
+            </p>
+            <p>Alſo that noble Prince, The King of Bohemia, hath written, thus: <hi>Notwithſtanding the ſucceſſe of theſe lat<g ref="char:EOLhyphen"/>ter times, wherein ſundry opinions have beene hatched about the ſubject of Religion, may make one clearely diſcerne with his eye, and as it were touch with his finger, that accor<g ref="char:EOLhyphen"/>ding to the veritie of holy Scripture, and a Maxime hereto<g ref="char:EOLhyphen"/>fore held and maintained by the ancient Doctors of the Church, That mens conſciences ought in no ſort to be viola<g ref="char:EOLhyphen"/>ted, urged, or conſtrained; and whenſoever men have at<g ref="char:EOLhyphen"/>tempted any thing by this violent courſe, whether openly, or by ſecret meanes, the iſſue hath beene pernitious, and the cauſe of great and wonderfull innovations in the principal<g ref="char:EOLhyphen"/>leſt and mightieſt Kingdomes and Countries of all Chri<g ref="char:EOLhyphen"/>ſtendome, &amp;c. For which cauſe,</hi> his Majeſtie ſaith, <hi>So that once more wee doe proteſt before God, and the whole world, that from this time forward we are firmly reſolved not to perſecute, or moleſt, or ſuffer to be perſecuted or mo<g ref="char:EOLhyphen"/>leſted, any perſon whatſoever, for matter of Religion, no not they which profeſſe themſelves to be of the Romane Church, neither to trouble nor diſturbe them in the exerciſe
+<pb n="26" facs="tcp:191460:15"/>
+of their Religion, ſo they live conformably to the Lawes of the State</hi> &amp;c.</p>
+            <p>And for the practiſe of this thing, it is well known, that many great Monarchs, Princes, and States, ſuffer Religion free, and doe not conſtraine, the conſcience of any man, by bodily perſecutions: not onely Hea<g ref="char:EOLhyphen"/>then Princes, as the Turk, and Perſian: but even Ca<g ref="char:EOLhyphen"/>tholique Princes; and many Proteſtant Princes alſo.</p>
+         </div>
+         <div n="8" type="chapter">
+            <head>
+               <hi>CHAP. VIII.</hi> Divers Teſtimonies of inferiour men, againſt perſecution.</head>
+            <p>
+               <hi>HIllar. contra, Auxen.</hi> The Chriſtian Church doth not perſecute, but is perſecuted: and lamentable it is to ſee the great follie of theſe times, and to ſigh, at the fooliſh opinion of this world, in that men thinke by hu<g ref="char:EOLhyphen"/>mane aid to help God, and with worldly pompe and power to undertake to defend the Chriſtian Church: J aske you Bi<g ref="char:EOLhyphen"/>ſhops, what help uſed the Apoſtles in the publiſhing of the Goſpell? with the aide of what power did they preach Chriſt, and converted the Heathen from their idolatry to God? When they were in priſons, and lay in chaines, did they praiſe and give thankes to God, for any Dignities, Graces and Fa<g ref="char:EOLhyphen"/>vours received from the Court? Or doe you thinke that Paul went about Regall mandates, or Kingly authoritie, to gather and eſtabliſh the Church of Chriſt? Sought he protection from Nero Veſpation, whoſe envie and hate againſt Chriſt made the Goſpell, and the acknowledgement thereof more to flouriſh? The Apoſtles wrought with their hands, for their owne maintenance, travelling by land and water from Town to Citie to preach Chriſt; yea, the more they were forbidden, the more they taught and preached Chriſt, but now alas, humane helpe muſt aſſiſt and protect the faith,
+<pb n="27" facs="tcp:191460:15"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd give the ſame countenance: with, and by vaine and worldly honours doe men ſeeke to defend the Church of Chriſt, as if he by his power were not able to performe it.</p>
+            <p>
+               <hi>Hill. con. Arian.</hi> The Church now, which formerly <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y enduring, miſerie and impriſonment, was knowne to be a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rue Chruch, doth now terrifie others by impriſonment, ba<g ref="char:EOLhyphen"/>niſhment and miſerie, and boaſteth that ſhe is highly eſteemed of the world; whereas the true Church cannot but be hated of the ſame.</p>
+            <p>
+               <hi>Ambroſe in his booke of Widowes:</hi> The Church o<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ercommeth the power of the adverſarie, not with worldly, but with ſpirituall weapons, which are powerfull before God, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o caſt downe holds and ſpirituall wickedneſſes.</p>
+            <p>
+               <hi>Damaſc. 3. ſent. cap. 33.</hi> The Goſpell is preached <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hrough the world, which overcame not the adverſaries <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hereof, through the ſword, or by warre: but a few naked, poore, unlearned, and ſcourged people, confounded, and brought to nought the wiſe men of the world: for how ſhall <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Church otherwiſe have Martyrs, if ſhe her ſelfe martyred others?</p>
+            <p>
+               <hi>Ierom. in proaem. lib. 4. in Ieremiam.</hi> Hereſie is to be cut off with the ſword of the Spirit; let us ſtrike tho<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow with the arrowes of the Spirit, all ſonnes and diſciples of miſſe-led heretiques, that is, with Teſtimonies of holy Scripture, the ſlaughter of Heretiques is by the word of God.</p>
+            <p>
+               <hi>Tertul. ad Scapul.</hi> It agreeth both with humane equi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie and naturall reaſon, that everie man worſhip God uncom<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ompelled, and beleeve what he will; for it neither hurteth, nor profiteth any man, another mans Religion, or Beleefe: neither beſeemeth it any Religion to compell another to be of their Religion, which willingly and freely ſhould be imbraced and not by conſtraint; for as much as the offerings were re<g ref="char:EOLhyphen"/>quired of thoſe that freely, and with a good will offered, and not from the contrary.</p>
+            <p>
+               <pb n="28" facs="tcp:191460:16"/>Brentius <hi>upon 1. Cor. 3.</hi> No man hath power to make <hi>(or give)</hi> lawes to Chriſtians, whereby to binde their conſci<g ref="char:EOLhyphen"/>ences; for willingly, freely and uncompelled, with a readie deſire, and chearefull mind, muſt thoſe that come, run unto Chriſt.</p>
+            <p>Martin Luther, <hi>in his booke upon the Civill Magi<g ref="char:EOLhyphen"/>ſtrate.</hi> The lawes of the civill Government extends no fur<g ref="char:EOLhyphen"/>ther then over the bodie and goods, and to that which is ex<g ref="char:EOLhyphen"/>ternall, for over the ſoule, God will not ſuffer any man to rule, onely he himſelfe will rule there: wherefore, where<g ref="char:EOLhyphen"/>ſoever the civill Magiſtrate doth undertake to give lawes un<g ref="char:EOLhyphen"/>to the ſoule and conſciences of men, he uſurpeth that go<g ref="char:EOLhyphen"/>vernment to himſelfe, which apperteyneth to God, <hi>&amp;c.</hi>
+            </p>
+            <p>Martin Luther <hi>upon 1. King. 6.</hi> In the building of the Temple, there was no ſound of iron heard; to ſignifie, that Chriſt will have in his Church, a free and willing people, not compelled and conſtrained by lawes and ſtatutes.</p>
+            <p>
+               <hi>Againe, upon Luke 22.</hi> It is not the true Catholique Church, which is defended by the ſecular arme, or humane power, but the falſe and fained: which although it carie the name of a Church, yet denyeth the power thereof.</p>
+            <p>
+               <hi>And upon Pſal. 17.</hi> For the true Church of Chriſt knoweth not the worldly arme, which the Biſhops now a daies chiefly uſe.</p>
+            <p>
+               <hi>Againe, in Poſtil. Dom. 1. poſt. Epiph.</hi> Let not Chriſtians be commanded, but exhorted; for he that will not willingly doe that whereunto he is friendly exhorted, hee is no Chriſtian: wherefore thoſe that doe compell them that are not willing, ſhew thereby that they are not Chriſtian Prea<g ref="char:EOLhyphen"/>chers, but worldly Beedles.</p>
+            <p>
+               <hi>Againe, upon 1. Pet. 3.</hi> Jf the Civill Magiſtrate would command me to beleeve thus, or thus; J ſhould anſwer him after this manner, Noble Lord, looke you to your civill, or worldly governement: your power extends not ſo farre to command any thing in Gods Kingdome, therefore herein I
+<pb n="29" facs="tcp:191460:16"/>
+may not heare you: For if you cannot ſuffer that any man ſhould uſurpe authoritie where you have to command? how doe you thinke that God ſhall ſuffer you to thrust him from his ſeat, and ſet your ſelfe therein.</p>
+            <p>
+               <hi>Many moe might be produced: onely we will adde the judgement of ſome that are ſubject to troubles for their Religion, as we: the Puritanes, ſo called, in their</hi> Adm to the Parl. <hi>This is a part of their Petition:</hi>
+            </p>
+            <p>
+               <hi>That Papiſts, nor other, neither conſtrainedly, nor cuſtomably, communicate in the myſteries of ſalva<g ref="char:EOLhyphen"/>tion: as alſo their</hi> Supplication for Tolleration <hi>printed 1609. in</hi> Pag. <hi>21. &amp;c.</hi>
+            </p>
+            <p>
+               <hi>And laſtly the Papiſts, who of all other have leaſt cauſe to ſpeake againſt perſecution, in that the enact<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng it a law, proceeded from them, and is ſo uſually practiſed by them where they have power: yet thus <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey write, in a booke full of wickedneſſe, lately ſet forth, yet allowed by their Superiours.</hi> Moreover the meanes which Almightie appointed his officers to uſe in the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onverſion of K<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngdomes and people, was humilitie, pati<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce, charity, &amp;c ſaying Mat. <hi>10.16.</hi> Behold, J ſend you as <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heepe in the midst of wolves; he did not ſay, I ſend you as wolves among ſheep, to kill, impriſon, ſpoyle, and devoure, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hoſe unto whom they were ſent: Againe he ſaid, ver. <hi>17.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey to whom J ſend you will deliver you up in Councells, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd in their Synagogues they will ſcourge you, and to Preſi<g ref="char:EOLhyphen"/>dents and to Kings ſhall you be led for my ſake: he doth not ſay you whom I ſend ſhall deliver the people whom you ought <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o convert into councels, and put them in priſons, and leade <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem to Preſidents and tribunall ſeats, and make their Reli<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion fellony and treaſon. Again he ſaith, verſ. <hi>12.</hi> When <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee enter into a houſe ſalute it ſaying peace be to this houſe; He doth not ſay you ſhall ſend Purſuivants to ranſacke and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>poyle the houſe. Againe he ſaith Ioh <hi>10.</hi> The good Paſtor giveth his life for his ſheep, the theefe commeth not but for
+<pb n="30" facs="tcp:191460:17"/>
+to ſteale, kill, and to deſtroy: he doth not ſay, the theefe gi<g ref="char:EOLhyphen"/>veth his life for the ſheep, and the good Paſtor commeth not but for to ſteale, kill, and to deſtroy. Wherefore ſo much as is lawfull for poore ſubjects, wee humble beſeech your Majeſtie, that converting of us by killing, impriſon<g ref="char:EOLhyphen"/>ments, confiſcation of goods, ranſacking and ſpoyling by Pro<g ref="char:EOLhyphen"/>moters and Purſuivants &amp;c. laid aſide (at which the Chri<g ref="char:EOLhyphen"/>ſtian world is ſcandalized) it would pleaſe your Majestie, to give order that Diſputations, Conferences, and ſweet meanes may be uſed, for the diſcuſsion of truth, according to the doctrine of our Saviour and his Apoſtles, which is peaceable, modeſt, ſwaſible, conſenting to the good, full of mercie: and by thoſe meanes, if we ſhould he in errour, your Majeſtie might eaſily gaine us, &amp;c. And if we ſhould for<g ref="char:EOLhyphen"/>ſake our Religion, for feare of the loſſe of our temporall goods, impriſonments, hanging, and not out of information in beleefe, we ſhould be but Atheiſts, and be worthy to bee hanged up in deed, for diſſembling with men, and violating all obligation to God, <hi>&amp;c. Theſe are their words: where<g ref="char:EOLhyphen"/>by we holding our peace, our Adverſaries ſpeake for us.</hi>
+            </p>
+         </div>
+         <div n="9" type="chapter">
+            <head>
+               <hi>CHAP. IX.</hi> It can be no prejudice to the Common-wealth, but much good, if freedome of mens conſciences be ſuffered.</head>
+            <p>VVEe feare (notwithſtanding all the manifeſt Teſtimonies of God and men) that the learned will labour to poſſeſſe your Ma<g ref="char:EOLhyphen"/>jeſtie, and the reſt in Authoritie, <hi>That Tolleration will be hurtfull, and dangerous to the State:</hi> wee will a little more therefore, moſt humbly intreate your patience: to heare us diſcover by Scripture and experience, that it will not: as alſo to take out of the vvay their ob<g ref="char:EOLhyphen"/>iections.</p>
+            <pb n="31" facs="tcp:191460:17"/>
+            <p>
+               <hi>Abraham</hi> abode among the Canaanites a long time, yet contrarie to them in Religion, <hi>Gen.</hi> 13.7. &amp; 16.3. Againe he ſojourned in Gerar, King Abimelech bid<g ref="char:EOLhyphen"/>ding him dwell where it pleaſed him, chap. 20. &amp; chap. 21.33.34. <hi>Iſaak</hi> alſo dwelt in the ſame land, yet con<g ref="char:EOLhyphen"/>trarie to the King and his Subjects in Religion, ch. 26. <hi>Iacob</hi> lived 20. yeres with his uncle <hi>Laban</hi> in one houſe, yet differed in religion, <hi>Gen.</hi> 31.30.33. The people of Iſrael continued 430. yeres in that famous land of E<g ref="char:EOLhyphen"/>gypt, <hi>Exod.</hi> 12.40. afterward were caryed into Babylon, where they remained 70. yeres, all which times they did differ in Religion, &amp; yet no danger to the State. Come to the time of Chriſt, when Iſrael was againe captive to the Romans, where lived divers Sects of Religion, Herodians, Scribes &amp; Phariſees, Sadduces, &amp; Libertines, and Samaritanes, beſides the common Religion of the Iewes, Chriſt, &amp; his Apoſtles, all of which differed from the common Religion of the State: which in all like<g ref="char:EOLhyphen"/>lyhood was the worſhip of <hi>Diana,</hi> which all the world (almoſt) then vvorſhipped, <hi>Act.</hi> 19.20. yet all theſe lived under the government of <hi>Caeſar,</hi> being nothing hurtfull to the State and Common wealth; for they, were all ſubject to all humane Lawes as was meet. And when ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me of theſe Sects began to perſecute the truth (<gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> uſually falſhood doth perſecute truth, but never <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> falſhood) then theſe perſecutors did moſt of all <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the State, and cauſe tumults, as appeareth, <hi>Act.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> &amp;c. and 14.15. and 19.29. &amp;c. and ch. 21. &amp;c. <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whereas, if they would as freely have permitted the Tr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th, as the Truth could have ſuffered falſhood (lea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> it to God to puniſh) there ſhould not have bene <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> trouble at all in the State, and Common wealth.</p>
+            <p>Againe, who is not well acquainted with the flou<g ref="char:EOLhyphen"/>riſhing eſtates of the neighbour Nations, and that di<g ref="char:EOLhyphen"/>vers; who tollerate Religion, their Weales, States and
+<pb n="32" facs="tcp:191460:18"/>
+Cities are well and peaceably governed: Many ſorts of Religions are in their Provinces, yet no trouble of State, no treaſon, no hinderance at all of any good; they have all one harmonie in matters of State, giving unto <hi>Caeſar</hi> his due; and for Religion, they ſuffer one another patiently, doing one unto another, as they would be done unto. And if any object the trou<g ref="char:EOLhyphen"/>bles of France, or of the Low Countries: it is eaſily anſwered, the fountaine of them is, that thoſe that hold perſecution lawfull, take up armes, or raiſe tu<g ref="char:EOLhyphen"/>mults: for which cauſe it is juſt in the Princes and States, to puniſh ſuch ſeverely for the breach of the Civill peace; not medling with them for matter of conſcience. None that we know, but Papiſts and Proteſtants, doe perſecute, and therefore are onely lettered, but altogether without the Spirit of God, to perſwade that perſecution is profitable for a State: it being ſo wicked, and unprofitable, as hath beene pro<g ref="char:EOLhyphen"/>ved.</p>
+         </div>
+         <div n="10" type="chapter">
+            <head>
+               <hi>CHAP. X.</hi> Kings are deprived of no power, that God hath given them, when they maintaine freedome of Religion in their Do<g ref="char:EOLhyphen"/>minions.</head>
+            <p>VVE are not ignorant, that the learned doe per<g ref="char:EOLhyphen"/>ſwade Kings and Princes, that they have power from God, to maintaine Gods wor<g ref="char:EOLhyphen"/>ſhip and ſervice, as well as civill peace, and ſo are main<g ref="char:EOLhyphen"/>teyners of both Tables, and to puniſh falſe worſhip<g ref="char:EOLhyphen"/>pers with impriſonment, death, or otherwiſe, as other malefactors of the ſecond Table. Now concerning the latter, we freely acknowledge they have all of them power from God, to make humane Lawes (that be juſt) for the government of their Kingdomes, and compell
+<pb n="33" facs="tcp:191460:18"/>
+their ſubjects to obſerve them, and to puniſh the tranſ<g ref="char:EOLhyphen"/>greſſors of them; and we all are to be obedient of con<g ref="char:EOLhyphen"/>ſcience for the Lords ſake. But here lyeth the diffi<g ref="char:EOLhyphen"/>cultie, where God hath given to all Kings charge over his worſhip and ſpirituall ſervice. <hi>For God is a Spirit, and they that worſhip him, muſt worſhip him in Spirit and Truth, Ioh.</hi> 4. If all Kings have this charge and po<g ref="char:EOLhyphen"/>wer, then doe all Kings ſinne in this ſave one (if one): for many, doe not at all thinke it is their charge, and ſo doe altogether neglect it: and ſome doe thinke it is their charge, and doe maintaine it; one, in one man<g ref="char:EOLhyphen"/>ner, and another in another, ſo that there can be but one, that doe well in it, (if one), for there is but one Truth<g ref="char:punc">▪</g> all the reſt doe ſinne: ſome for not maintaining it at all, and ſome for maintaining it after a falſe man<g ref="char:EOLhyphen"/>ner; for a falſe worſhip is worſe then none. And this one may verie well be doubtfull, becauſe he is as ſub<g ref="char:EOLhyphen"/>ject to erre as the others. And if he doe erre, and con<g ref="char:EOLhyphen"/>ſtraine his ſubjects amiſſe, they ſhall periſh for their ſinne, and their bloud ſhall be required at his hands.</p>
+            <p>The learned ſay, that Chriſtian Kings, have the ſame power that the kings of Iſrael had to maintaine <hi>Moſe Law:</hi> in which obſerve, no other kings had power o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> charge, to maintaine that Religion, but onely the Kings of Iſrael, and yet the Common weales did con<g ref="char:EOLunhyphen"/>tinue long, and flouriſh, to them and their ſeed afte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them, to many generation: but in theſe daies, diver Kings ſay they are in the place of the Kings of Iſrael and ſay, they maintaine the Religion of Chriſts Goſ<g ref="char:EOLunhyphen"/>pell; yet differ ſo much, as they count one another I<g ref="char:EOLunhyphen"/>dolaters and Heretiques, for maintaining his way.</p>
+            <p>May it pleaſe your Majeſtie to give us leave to ask of your learned, in what place of the word of Go your charge ſtandeth? Wee often reade of your charg in civill things, and that your power is from God, an
+<pb n="34" facs="tcp:191460:19"/>
+hee hath given you a ſword to puniſh evill doers, and defend the innocent; but not to ſupport any Religi<g ref="char:EOLhyphen"/>on, nor ſuppreſſe any Religion, by your earthly ſword, now in the time of Chriſt. But we reade that Kings have given their power and authoritie to the Beaſt, <hi>Revel.</hi> 17. to uphold an Antichriſtian Religion, and their be ten, or many of them that doe it: Therefore it behooveth all Kings, that doe by power and force, uphold any Religion, to ſuſpect themſelves, leſt they be of thoſe ten that uphold the Beaſt, and fight againſt the Lambe: And alſo let them feare, leſt ſeeming to uphold true Religion, they ſit in the conſciences of men, where Chriſt ſhould ſit: For Chriſt is the alone King of Iſrael, without a fellow, or ſubſtitute, as your Majeſtie well obſerveth, in your Highneſſe Apologie, <hi>Chriſt is the Churches Monarch, and the Holy Ghoſt his Deputie.</hi>
+            </p>
+            <p>But we know, that they will anſwer us; your Charge is in the Law of <hi>Moſes,</hi> (for in the Goſpell they have no colour, for <hi>Rom.</hi> 13. maketh nothing for this pur<g ref="char:EOLhyphen"/>poſe, <hi>Caeſar</hi> being a Heathen King, to whom God gave no authoritie, nor ſword, for matter of Religi<g ref="char:EOLhyphen"/>on). They ſay, the children of Iſrael were comman<g ref="char:EOLhyphen"/>ded to deſtroy all the inhabitants of the Land, <hi>Deut.</hi> 7. leſt they intice them to ſerve their gods, <hi>Exod.</hi> 23. And falſe Prophets to be ſlaine, <hi>Deut.</hi> 13. Theſe are their ſtrong holds. For anſwer unto which: Firſt, the ſinns of theſe people were full, and the Lord would deſtroy them and give their poſſeſſions to Iſrael: but the ſinns of the refuſers of Chriſt are not full untill the end. Secondly, the children of Iſrael had a ſpeciall com<g ref="char:EOLhyphen"/>mand from the Lord to deſtroy them; but the kings of Nations have no command at all to deſtroy the bodies of the contrarie minded, they are forbidden to plucke up the tares, <hi>Mat.</hi> 13. Thirdly, the Canaanites
+<pb n="35" facs="tcp:191460:19"/>
+would have rebelled againſt Iſrael, and have deſtroyed them: but the contrarie minded will not rebell againſt their Kings; all that doe let them be cut off: Fourth<g ref="char:EOLhyphen"/>ly, the Heads and Rulers of Iſrael, could command and compel the people to obſerve thoſe carnall Rites &amp; Ordinances of the Law: but the Heads of the Nati<g ref="char:EOLhyphen"/>ons cannot compell their Subjects to beleeve the Goſ<g ref="char:EOLhyphen"/>pel; <hi>for faith is the gift of God,</hi> which faith if they want, all that they doe in Gods worſhip is ſinne, <hi>Rom.</hi> 14.23. <hi>Heb.</hi> 11.6. therefore they cannot compell any to wor<g ref="char:EOLhyphen"/>ſhip, becauſe they cannot give them faith: for which cauſe, the Lord in wiſedome ſee it not meet to charge Kings with a dutie which they cannot performe: For to acceptance with God, there muſt be a willing mind, 1. <hi>Cor.</hi> 9. and faith: but ſeeing it is not in their power to work either of theſe, but the worke of God alone, as your Majeſtie ſaith, in Parl. 1609. <hi>God will never re<g ref="char:EOLhyphen"/>quire it at their hands: The bloud of the faithleſſe and misbeleeving ſhall be upon their own heads; for he that will not beleeve ſhall be damned.</hi>
+            </p>
+            <p>Againe, ſeeing they grant the law of Adulterie, Theft, and the like, to be changed, and is not now to be exacted according to that Law: for the Iudicials were but for that time, place, and perſon, as your Ma<g ref="char:EOLhyphen"/>jeſtie obſerveth in Parl. 1609. why ſhould not this, <hi>Deut.</hi> 13. be changed alſo, for the cauſes aforeſaid? as alſo becauſe Chriſt and his Apoſtles hath expreſly for<g ref="char:EOLhyphen"/>bidden it, as hath beene proved; reſerving for ſuch a ſorer puniſhment, <hi>Heb.</hi> 10. For if that Law ſhould now be exacted, all Kings would be deprived of many their faithfull ſubjects, and the Cities of their habita<g ref="char:EOLhyphen"/>tion, with all their ſubſtance, that is therein muſt be burned with fire, and made a heape of ſtones for ever: vvhich God forbid.</p>
+            <pb n="36" facs="tcp:191460:20"/>
+            <p>This wee hope your Majeſtie, and the reſt in Au<g ref="char:EOLhyphen"/>thoritie, may ſee there is no compariſon, between the Kings of Iſrael under the Law, and the Kings of Nati<g ref="char:EOLhyphen"/>ons in the time of the Goſpell in matters of Religion Many things might be writ, to prove that Kings are not deprived of that power which God hath given them, by ſuffering the Freedome in Religion: as al<g ref="char:EOLhyphen"/>ſo the high impietie of all ſuch as force the conſcience by perſecution. But this may ſuffice, the Almightie bleſſing it: which, with your Kingly and Honourable Conſultations; wee commend unto the King of Kings, with our unceſſant prayers, for ſuch ſucceſſe, as may tend moſt to his glorie, and the proſperous eſtate of this Kingdome.</p>
+            <closer>
+               <signed>
+                  <hi>The Kings Majeſtie loyall ſubjects in all lawfull obedience, unjuſtly called</hi> Anabaptiſts.</signed>
+            </closer>
+            <pb facs="tcp:191460:20"/>
+         </div>
+      </body>
+   </text>
+</TEI>
